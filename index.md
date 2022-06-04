@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-p05/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## PROJECT 5
 
 ```markdown
-Syntax highlighted code block
+Learning Objectives:
 
-# Header 1
-## Header 2
-### Header 3
+1. Gain experience working with classes, including 
+   class constructors and methods
+2. Gain experience interpreting existing code to 
+   design a new class, including constructor and methods
+3. Gain more experience working with code modules
+4. Gain experience executing and debugging Node.js 
+   code using VSCode, including module breakpoints
+5. Gain more experience working with Array map() 
+   and forEach() methods
+6. Gain experience working with the concept of 
+   a gaming loop
+7. Gain more experience working with objects/arrays
 
-- Bulleted
-- List
+Overview: 
 
-1. Numbered
-2. List
+For this project, you will create a Monster Game 
+program using classes. The game will create monsters 
+with initial life values, and minimum life values for 
+the monster to be alive. Once the game is running, each 
+monster's life will be drained by a random amount, and 
+the game will continue until all of the monsters have died. 
+The game will include a delay before each life drain.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- VS Code
+- Terminal
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-p05/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What I Learned:
+In this project, I created a Moster Game using the class constructor. Some methods I used were *listMonsters()* method, *forEach()* method, *createMonsters()* method, and *playGame()* method.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Files from Project 5:
+
+[ss1](project5.png)
